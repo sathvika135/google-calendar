@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Lunch Time",
+    "date": "2025-06-23",
+    "time": "1:00",
+    "duration": "1h"
+  },
+  {
+    "id": 2,
+    "title": "Last Date for Survey Sparrow Assessment",
+    "date": "2025-06-23",
+    "time": "2:00",
+    "duration": "30m"
+  },
+  {
+    "id": 3,
+    "title": "Preparation",
+    "date": "2025-06-23",
+    "time": "3:00 PM",
+    "duration": "1h"
+  },
+  {
+    "id": 4,
+    "title": "It's My Birthday",
+    "date": "2025-06-21",
+    "time": "12:00 AM",
+    "duration": "1h"
+  }
+]
